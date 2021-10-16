@@ -53,11 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights | Lex Fridman Podcast #231](https://www.youtube.com/watch?v=kSbMU5CbFM0)
 - [Kelsi Sheren: War, Artillery, PTSD, and Love | Lex Fridman Podcast #230](https://www.youtube.com/watch?v=PbN3HzKkW4M)
 - [Richard Wrangham: Violence, Sex, and Fire in Human Evolution | Lex Fridman Podcast #229](https://www.youtube.com/watch?v=YJF01_ztxwY)
 - [RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death | Lex Fridman Podcast #228](https://www.youtube.com/watch?v=Iau6W5pjy9Y)
 - [Sean Kelly: Existentialism, Nihilism, and the Search for Meaning | Lex Fridman Podcast #227](https://www.youtube.com/watch?v=cC1HszE5Hcw)
-- [Jo Boaler: How to Learn Math | Lex Fridman Podcast #226](https://www.youtube.com/watch?v=KZnGSVwIpeU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
