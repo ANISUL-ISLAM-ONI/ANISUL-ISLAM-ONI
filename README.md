@@ -73,7 +73,18 @@
 
 ---
 
-<img align="left" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://onicodex.blogspot.com/
 [course]: https://onicodex.blogspot.com/
