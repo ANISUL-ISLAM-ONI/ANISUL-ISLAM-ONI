@@ -51,11 +51,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
+- [Kelsi Sheren: War, Artillery, PTSD, and Love | Lex Fridman Podcast #230](https://www.youtube.com/watch?v=PbN3HzKkW4M)
+- [Richard Wrangham: Violence, Sex, and Fire in Human Evolution | Lex Fridman Podcast #229](https://www.youtube.com/watch?v=YJF01_ztxwY)
+- [RZA: Wu-Tang Clan, Kung Fu, Chess, God, Life, and Death | Lex Fridman Podcast #228](https://www.youtube.com/watch?v=Iau6W5pjy9Y)
+- [Sean Kelly: Existentialism, Nihilism, and the Search for Meaning | Lex Fridman Podcast #227](https://www.youtube.com/watch?v=cC1HszE5Hcw)
+- [Jo Boaler: How to Learn Math | Lex Fridman Podcast #226](https://www.youtube.com/watch?v=KZnGSVwIpeU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
