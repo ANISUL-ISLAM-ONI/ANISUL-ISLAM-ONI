@@ -42,7 +42,7 @@
 <br />
 ### My handlers in different Online-Judges:
 
-[<img align="left" alt="codeforces" width="26px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
+[<img align="left" alt="codeforces" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
 <br />
 <br />
 
