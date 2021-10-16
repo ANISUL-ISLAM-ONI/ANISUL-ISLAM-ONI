@@ -96,5 +96,5 @@
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
 [reactplaylist]: https://www.youtube.com/
-[codeforces]: https://codeforces.com/profile/beastInside
+[codeforces]: https://codeforces.com/profile/BITSBEE
 
