@@ -44,8 +44,8 @@
 ---
 ### My handlers in different Online-Judges:
 
-[<img align="left" alt="codeforces" height="13px" width="64px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
-
+[<img align="left" alt="codeforces" height="26px" width="128px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
+<br />
 ---
 
 ### 📺 Latest YouTube Videos
