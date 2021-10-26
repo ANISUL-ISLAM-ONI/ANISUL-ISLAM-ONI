@@ -53,7 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Pixel 6 | Unboxing AI](https://www.youtube.com/watch?v=OSRDheEe0ik)
+- [Pixel 6 AI explained | Lex Fridman](https://www.youtube.com/watch?v=OSRDheEe0ik)
 - [Carl Hart: Heroin, Cocaine, MDMA, Alcohol & the Role of Drugs in Society | Lex Fridman Podcast #233](https://www.youtube.com/watch?v=3LWNY70Oj4A)
 - [Brian Greene: Quantum Gravity, The Big Bang, Aliens, Death, and Meaning | Lex Fridman Podcast #232](https://www.youtube.com/watch?v=98HZanvAJ8Y)
 - [Alex Gladstein: Bitcoin, Authoritarianism, and Human Rights | Lex Fridman Podcast #231](https://www.youtube.com/watch?v=kSbMU5CbFM0)
