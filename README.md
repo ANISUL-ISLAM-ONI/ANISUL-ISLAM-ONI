@@ -101,11 +101,11 @@ Last Updated: Sunday, October 31st, 2021, 4:00:43 PM
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img height="160em" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="160em" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="50%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="49%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
   </p>
   <p align="center">
-    <img alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ANISUL-ISLAM-ONI&theme=radical" width="600" />
+    <img alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ANISUL-ISLAM-ONI&theme=radical" width="100%" />
   </p>
 </details>
 
