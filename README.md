@@ -1,6 +1,6 @@
 ### Hi there, I'm Anisul Islam Oni - aka [ONICODEX][website] 👋
 
-![ONICODEX](https://github.com/ANISUL-ISLAM-ONI/ANISUL-ISLAM-ONI/blob/main/aiofinal.png)
+<img src="https://github.com/ANISUL-ISLAM-ONI/ANISUL-ISLAM-ONI/blob/main/aiofinal.png" alt="ONICODEX" width="100%">
 
 [![Website](https://img.shields.io/website?label=onicodex.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fonicodex.blogspot.com)](https://onicodex.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/onicodex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FANISUL-ISLAM-ONI&screen_name=onicodex)
@@ -44,10 +44,12 @@
 <br />
 
 ---
+
 ### My handlers in different Online-Judges:
 
 [<img align="left" alt="codeforces" height="26px" width="128px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
 <br />
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -89,12 +91,22 @@
   <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Sunday, October 31st, 2021, 4:00:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
+  
+  <p align="center">
+    <img alt="ANISUL-ISLAM-ONI's Github Activity" src="https://activity-graph.herokuapp.com/graph?username=ANISUL-ISLAM-ONI&theme=react-dark&area=true&hide_border=true" width="100%">
+  </p>
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&hide_border=true" />
+  <p align="center">
+    <img height="160em" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="160em" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
+  </p>
+  <p align="center">
+    <img alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ANISUL-ISLAM-ONI&theme=radical" width="600" />
+  </p>
 </details>
 
 [website]: https://onicodex.blogspot.com/
