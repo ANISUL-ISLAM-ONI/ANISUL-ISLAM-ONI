@@ -40,14 +40,17 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+
 <br />
 
 ---
 
+
 ### My handlers in different Online-Judges:
 
 [<img align="left" alt="codeforces" height="26px" width="128px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
+<br />
 <br />
 
 ---
@@ -64,6 +67,8 @@
 
 ➡️ [more videos...](https://youtube.com/)
 
+<br />
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -74,6 +79,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://onicodex.blogspot.com/)
+
+<br />
 
 ---
 
@@ -89,7 +96,7 @@
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 31st, 2021, 5:08:38 PM
+Last Updated: Sunday, October 31st, 2021, 4:00:43 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
@@ -101,8 +108,8 @@ Last Updated: Sunday, October 31st, 2021, 5:08:38 PM
 <details>
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
-    <img width="50%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="49%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
+    <img width="48%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ANISUL-ISLAM-ONI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img width="48%" alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ANISUL-ISLAM-ONI&layout=compact&langs_count=8&theme=algolia"/>
   </p>
   <p align="center">
     <img alt="ANISUL-ISLAM-ONI's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ANISUL-ISLAM-ONI&theme=radical" width="100%" />
