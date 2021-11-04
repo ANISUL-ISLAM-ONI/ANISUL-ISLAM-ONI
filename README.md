@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Steve Viscelli: Trucking and the Decline of the American Dream | Lex Fridman Podcast #237](https://www.youtube.com/watch?v=a3Wpy6gE4So)
 - [Jimmy Pedro: Judo and the Forging of Champions | Lex Fridman Podcast #236](https://www.youtube.com/watch?v=uy1fX2vOAEE)
 - [Michael Mina: Rapid COVID Testing | Lex Fridman Podcast #235](https://www.youtube.com/watch?v=80OvNaEgmmw)
 - [Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234](https://www.youtube.com/watch?v=4-SGpEInX_c)
 - [Pixel 6 AI explained | Lex Fridman](https://www.youtube.com/watch?v=OSRDheEe0ik)
-- [Carl Hart: Heroin, Cocaine, MDMA, Alcohol & the Role of Drugs in Society | Lex Fridman Podcast #233](https://www.youtube.com/watch?v=3LWNY70Oj4A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
