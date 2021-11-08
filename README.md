@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Niall Ferguson: History of Money, Power, War, and Truth | Lex Fridman Podcast #239](https://www.youtube.com/watch?v=xF6x1ftN-H4)
 - [Francis Collins: National Institutes of Health &lpar;NIH&rpar; | Lex Fridman Podcast #238](https://www.youtube.com/watch?v=mRZE-SJShkE)
 - [Steve Viscelli: Trucking and the Decline of the American Dream | Lex Fridman Podcast #237](https://www.youtube.com/watch?v=a3Wpy6gE4So)
 - [Jimmy Pedro: Judo and the Forging of Champions | Lex Fridman Podcast #236](https://www.youtube.com/watch?v=uy1fX2vOAEE)
 - [Michael Mina: Rapid COVID Testing | Lex Fridman Podcast #235](https://www.youtube.com/watch?v=80OvNaEgmmw)
-- [Stephen Wolfram: Complexity and the Fabric of Reality | Lex Fridman Podcast #234](https://www.youtube.com/watch?v=4-SGpEInX_c)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
