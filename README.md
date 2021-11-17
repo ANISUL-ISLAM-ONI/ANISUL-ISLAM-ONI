@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Boris Sofman: Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics | Lex Fridman Podcast #241](https://www.youtube.com/watch?v=U_AREIyd0Fc)
 - [Neal Stephenson: Sci-Fi, Space, Aliens, AI, VR &amp; the Future of Humanity | Lex Fridman Podcast #240](https://www.youtube.com/watch?v=xAfdSak2fs8)
 - [Niall Ferguson: History of Money, Power, War, and Truth | Lex Fridman Podcast #239](https://www.youtube.com/watch?v=xF6x1ftN-H4)
 - [Francis Collins: National Institutes of Health &lpar;NIH&rpar; | Lex Fridman Podcast #238](https://www.youtube.com/watch?v=mRZE-SJShkE)
 - [Steve Viscelli: Trucking and the Decline of the American Dream | Lex Fridman Podcast #237](https://www.youtube.com/watch?v=a3Wpy6gE4So)
-- [Jimmy Pedro: Judo and the Forging of Champions | Lex Fridman Podcast #236](https://www.youtube.com/watch?v=uy1fX2vOAEE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
