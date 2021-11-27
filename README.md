@@ -118,10 +118,10 @@ Last Updated: Saturday, November 27th, 2021, 1:09:42 PM
 
 [website]: https://onicodex.blogspot.com/
 [course]: https://onicodex.blogspot.com/
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/ONICODEX
 [youtube]: https://youtube.com/
-[instagram]: https://instagram.com/
-[linkedin]: https://linkedin.com/in/
+[instagram]: https://www.instagram.com/ANISUL_ISLAM_ONI/
+[linkedin]: https://www.linkedin.com/in/anisul-islam-oni/
 [webdevplaylist]: https://www.youtube.com/
 [jsplaylist]: https://www.youtube.com/
 [cssplaylist]: https://www.youtube.com/
