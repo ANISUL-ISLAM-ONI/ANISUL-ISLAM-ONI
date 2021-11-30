@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tom Brands: Iowa Wrestling | Lex Fridman Podcast #245](https://www.youtube.com/watch?v=Ww6pfsWmkdY)
 - [Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East | Lex Fridman Podcast #244](https://www.youtube.com/watch?v=CDiqA4SJNpA)
 - [Kevin Systrom: Instagram | Lex Fridman Podcast #243](https://www.youtube.com/watch?v=3pvpNKUPbIY)
 - [Ben Askren: Wrestling and MMA | Lex Fridman Podcast #242](https://www.youtube.com/watch?v=tApj7Q37P2k)
 - [Boris Sofman: Waymo, Cozmo, Self-Driving Cars, and the Future of Robotics | Lex Fridman Podcast #241](https://www.youtube.com/watch?v=U_AREIyd0Fc)
-- [Neal Stephenson: Sci-Fi, Space, Aliens, AI, VR &amp; the Future of Humanity | Lex Fridman Podcast #240](https://www.youtube.com/watch?v=xAfdSak2fs8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
