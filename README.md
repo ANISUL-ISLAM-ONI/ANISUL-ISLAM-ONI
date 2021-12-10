@@ -88,15 +88,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [ANISUL-ISLAM-ONI/testing](https://github.com/ANISUL-ISLAM-ONI/testing)
-2. 
+1. 📔 Created new repository [ANISUL-ISLAM-ONI/rustlang](https://github.com/ANISUL-ISLAM-ONI/rustlang)
+2. 📔 Created new repository [ANISUL-ISLAM-ONI/testing](https://github.com/ANISUL-ISLAM-ONI/testing)
 3. 
 4. 
 5. 
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, December 10th, 2021, 7:00:23 PM
+Last Updated: Friday, December 10th, 2021, 8:00:36 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
