@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The biggest chess game ever](https://www.youtube.com/watch?v=Iy_oYCNhiUI)
 - [Jamie Metzl: Lab Leak Theory | Lex Fridman Podcast #247](https://www.youtube.com/watch?v=K78jqx9fx2I)
 - [Peter Woit: Theories of Everything &amp; Why String Theory is Not Even Wrong | Lex Fridman Podcast #246](https://www.youtube.com/watch?v=nDDJFvuFXdc)
 - [Tom Brands: Iowa Wrestling | Lex Fridman Podcast #245](https://www.youtube.com/watch?v=Ww6pfsWmkdY)
 - [Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East | Lex Fridman Podcast #244](https://www.youtube.com/watch?v=CDiqA4SJNpA)
-- [Kevin Systrom: Instagram | Lex Fridman Podcast #243](https://www.youtube.com/watch?v=3pvpNKUPbIY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
