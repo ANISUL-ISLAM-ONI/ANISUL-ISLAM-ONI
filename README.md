@@ -58,11 +58,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Norman Naimark: Genocide, Stalin, Hitler, Mao, and Absolute Power | Lex Fridman Podcast #248](https://www.youtube.com/watch?v=Vrz8YDl9CeA)
 - [The biggest chess game ever](https://www.youtube.com/watch?v=Iy_oYCNhiUI)
 - [Jamie Metzl: Lab Leak Theory | Lex Fridman Podcast #247](https://www.youtube.com/watch?v=K78jqx9fx2I)
 - [Peter Woit: Theories of Everything &amp; Why String Theory is Not Even Wrong | Lex Fridman Podcast #246](https://www.youtube.com/watch?v=nDDJFvuFXdc)
 - [Tom Brands: Iowa Wrestling | Lex Fridman Podcast #245](https://www.youtube.com/watch?v=Ww6pfsWmkdY)
-- [Robert Crews: Afghanistan, Taliban, Bin Laden, and War in the Middle East | Lex Fridman Podcast #244](https://www.youtube.com/watch?v=CDiqA4SJNpA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/)
