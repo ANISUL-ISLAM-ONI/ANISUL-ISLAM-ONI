@@ -50,7 +50,7 @@
 
 ### My handlers in different Online-Judges:
 
-[<img align="left" alt="codeforces" height="26px" width="128px" src="https://codeforces.org/s/14203/images/codeforces-logo-with-telegram.png" />][codeforces]
+[<img align="left" alt="codeforces" height="30px" width="128px" src="https://cdn.codeforces.com/s/59377/images/codeforces-sponsored-by-ton.png" />][codeforces]
 <br />
 <br />
 
