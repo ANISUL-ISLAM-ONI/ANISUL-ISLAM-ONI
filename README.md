@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/website?label=onicodex.blogspot.com&style=for-the-badge&url=https%3A%2F%2Fonicodex.blogspot.com)](https://onicodex.blogspot.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/onicodex?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FANISUL-ISLAM-ONI&screen_name=onicodex)
-![](https://komarev.com/ghpvc/?username=ANISUL-ISLAM-ONI&style=flat-square&color=blueviolet&label=PROFILE+VIEWS&height=100&width=100)
+![](https://komarev.com/ghpvc/?username=ANISUL-ISLAM-ONI&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
 ## I'm a Problem-Solver, Developer, and Content-Creator!!
 
