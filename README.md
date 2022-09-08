@@ -90,7 +90,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [ANISUL-ISLAM-ONI/rustlang](https://github.com/ANISUL-ISLAM-ONI/rustlang)
+1. 📔 Created new repository [ANISUL-ISLAM-ONI/CFinit](https://github.com/ANISUL-ISLAM-ONI/CFinit)
 2. 📔 Created new repository [ANISUL-ISLAM-ONI/testing](https://github.com/ANISUL-ISLAM-ONI/testing)
 3. 
 4. 
@@ -98,7 +98,7 @@
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 8th, 2022, 9:07:01 AM
+Last Updated: Thursday, September 8th, 2022, 10:00:49 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
