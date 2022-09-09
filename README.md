@@ -102,7 +102,7 @@ Last Updated: Friday, September 9th, 2022, 8:07:46 AM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
-    <img alt="ANISUL-ISLAM-ONI's Github Activity" src="https://github-activity-anisul-graph.herokuapp.com/graph?username=ANISUL-ISLAM-ONI&theme=react-dark&area=true&hide_border=true" width="100%">
+    <img alt="ANISUL-ISLAM-ONI's Github Activity" src="https://github-readme-activity-graph.bitsbee.repl.co/graph?username=ANISUL-ISLAM-ONI&theme=react-dark&area=true&hide_border=true" width="100%">
   </p>
 
 </details>
