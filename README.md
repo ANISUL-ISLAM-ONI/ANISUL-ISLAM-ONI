@@ -90,15 +90,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [MEMRANDBD/nextjstarter](https://github.com/MEMRANDBD/nextjstarter)
-2. 📔 Created new repository [ANISUL-ISLAM-ONI/nextjstarter](https://github.com/ANISUL-ISLAM-ONI/nextjstarter)
-3. 📔 Created new repository [ANISUL-ISLAM-ONI/tinder-clone](https://github.com/ANISUL-ISLAM-ONI/tinder-clone)
+1. 📔 Created new repository [ANISUL-ISLAM-ONI/graphdjango](https://github.com/ANISUL-ISLAM-ONI/graphdjango)
+2. 📔 Created new repository [MEMRANDBD/nextjstarter](https://github.com/MEMRANDBD/nextjstarter)
+3. 📔 Created new repository [ANISUL-ISLAM-ONI/nextjstarter](https://github.com/ANISUL-ISLAM-ONI/nextjstarter)
 4. 📔 Created new repository [ANISUL-ISLAM-ONI/tinder-clone](https://github.com/ANISUL-ISLAM-ONI/tinder-clone)
-5. 📔 Created new repository [ANISUL-ISLAM-ONI/CFinit](https://github.com/ANISUL-ISLAM-ONI/CFinit)
+5. 📔 Created new repository [ANISUL-ISLAM-ONI/tinder-clone](https://github.com/ANISUL-ISLAM-ONI/tinder-clone)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 26th, 2022, 11:00:20 AM
+Last Updated: Monday, September 26th, 2022, 12:11:56 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
