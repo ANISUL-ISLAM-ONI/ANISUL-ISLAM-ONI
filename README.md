@@ -90,15 +90,15 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
   <!--RECENT_ACTIVITY:start--> 
-1. 📔 Created new repository [ANISUL-ISLAM-ONI/graphqljson](https://github.com/ANISUL-ISLAM-ONI/graphqljson)
-2. 📔 Created new repository [ANISUL-ISLAM-ONI/mongooseIDAutoIncrement](https://github.com/ANISUL-ISLAM-ONI/mongooseIDAutoIncrement)
-3. 📔 Created new repository [ANISUL-ISLAM-ONI/actl](https://github.com/ANISUL-ISLAM-ONI/actl)
-4. 📔 Created new repository [ANISUL-ISLAM-ONI/todo](https://github.com/ANISUL-ISLAM-ONI/todo)
-5. 📔 Created new repository [ANISUL-ISLAM-ONI/graphdjango](https://github.com/ANISUL-ISLAM-ONI/graphdjango)
+1. 📔 Created new repository [ANISUL-ISLAM-ONI/quranfiles](https://github.com/ANISUL-ISLAM-ONI/quranfiles)
+2. 📔 Created new repository [ANISUL-ISLAM-ONI/graphqljson](https://github.com/ANISUL-ISLAM-ONI/graphqljson)
+3. 📔 Created new repository [ANISUL-ISLAM-ONI/mongooseIDAutoIncrement](https://github.com/ANISUL-ISLAM-ONI/mongooseIDAutoIncrement)
+4. 📔 Created new repository [ANISUL-ISLAM-ONI/actl](https://github.com/ANISUL-ISLAM-ONI/actl)
+5. 📔 Created new repository [ANISUL-ISLAM-ONI/todo](https://github.com/ANISUL-ISLAM-ONI/todo)
 <!--RECENT_ACTIVITY:end-->
 
   <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 14th, 2022, 11:00:31 AM
+Last Updated: Monday, November 14th, 2022, 12:10:21 PM
 <!--RECENT_ACTIVITY:last_update_end-->
   
   <p align="center">
