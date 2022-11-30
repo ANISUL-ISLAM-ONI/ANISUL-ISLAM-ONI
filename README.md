@@ -100,10 +100,6 @@
   <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Wednesday, November 30th, 2022, 11:00:41 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-  
-  <p align="center">
-    <img alt="ANISUL-ISLAM-ONI's Github Activity" src="https://github-readme-activity-graph.bitsbee.repl.co/graph?username=ANISUL-ISLAM-ONI&theme=react-dark&area=true&hide_border=true" width="100%">
-  </p>
 
 </details>
 
