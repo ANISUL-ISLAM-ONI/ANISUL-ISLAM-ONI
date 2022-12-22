@@ -59,7 +59,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Nathalie Cabrol: Search for Alien Life | Lex Fridman Podcast #348](https://www.youtube.com/watch?v=yyBosLx7bbM)
+- [Nathalie Cabrol](https://www.youtube.com/watch?v=yyBosLx7bbM)
 - [Michael Malice: Christmas Special | Lex Fridman Podcast #347](https://www.youtube.com/watch?v=NUkXluf3OYA)
 - [Ed Calderon: Mexican Drug Cartels | Lex Fridman Podcast #346](https://www.youtube.com/watch?v=9PIOoJMMptA)
 - [Coffeezilla: SBF, FTX, Fraud, Scams, Fake Gurus, Money, Fame, and Power | Lex Fridman Podcast #345](https://www.youtube.com/watch?v=hi9Rf0oLdHk)
